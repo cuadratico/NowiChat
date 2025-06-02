@@ -11,8 +11,8 @@ android {
         applicationId = "com.nowichat"
         minSdk = 24
         targetSdk = 35
-        versionCode = 6
-        versionName = "0.1.3:1"
+        versionCode = 5
+        versionName = "0.1.3"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -33,12 +33,6 @@ android {
     kotlinOptions {
         jvmTarget = "11"
     }
-
-    dependenciesInfo {
-        includeInApk = false
-        includeInBundle = false
-    }
-
 }
 
 dependencies {
