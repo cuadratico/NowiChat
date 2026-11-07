@@ -1,4 +1,6 @@
 
+# New project?
+## NowiChat is being updated and migrated to a more secure, cleaner, and more useful architecture. (https://github.com/cuadratico/NowiLink)
 ![Logo](https://github.com/cuadratico/NowiChat/blob/master/fastlane/metadata/android/en-US/images/logo_NowiChat.webp)
 
 
